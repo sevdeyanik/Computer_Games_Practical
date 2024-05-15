@@ -1,0 +1,4 @@
+repository "Computer_Games_Practical@sevdeyanik@cloud"
+  path "/"
+    smartbranch "/main"               
+     
